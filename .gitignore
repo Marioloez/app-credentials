@@ -64,13 +64,13 @@ $RECYCLE.BIN/
 ############################
 # Logs and databases
 ############################
-
+.env
 .tmp
 *.log
 *.sql
 *.sqlite
 *.sqlite3
-*.env
+
 
 ############################
 # Misc.
